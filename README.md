@@ -21,7 +21,7 @@ A python script that captures banners of open ports of a target machine.
 ![img](ip2.jpg)
 
 
-###  This tool acts as the popular tool *NMAP*.
+###  System Administrators can use this script in-place on *NMAP*.
 
 
 
